@@ -316,13 +316,6 @@ emotions = [Joy, Sorrow, Anger, Surprise]
 
 ## 🏗️ 시스템 아키텍처
 
-<div align="center">
-
-![System Architecture](docs/images/system-architecture.png)
-*전체 시스템 구조도*
-
-</div>
-
 ### 혼합 아키텍처 (MVC + RESTful API)
 
 ```
@@ -571,3 +564,4 @@ emotions = [Joy, Sorrow, Anger, Surprise]
 Made with ❤️ by Team TACO
 
 </div>
+
