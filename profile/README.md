@@ -547,11 +547,6 @@ emotions = [Joy, Sorrow, Anger, Surprise]
   - 기술 문서
   - 실행 방법
 
-### 🔗 참고 링크
-
-- [한국정보처리학회](https://www.kips.or.kr/)
-- [ACK 2024 학술대회](https://www.manuscriptlink.com/society/kips/conference/ack2024)
-
 ---
 
 
@@ -564,4 +559,5 @@ emotions = [Joy, Sorrow, Anger, Surprise]
 Made with ❤️ by Team TACO
 
 </div>
+
 
